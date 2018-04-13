@@ -6,4 +6,6 @@ Question of lucky palindrome in Js,
 Question of social circle transitive array in JS,
 Question of formation of word from Pair of words from the given string like "2, JAY, ROB, CAT, DOG". etc
 
-Hope this helps you I scored 90% in the tests hence it is tried and tested on codility.
+Files are commitable, any improvements will be extremely appreciated.
+
+Hope this helps you I scored 85% in the tests hence it is tried and tested on codility.
